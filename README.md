@@ -1,4 +1,4 @@
 # college-demo
 this is my first Git Repository.
 <br>
-Author-kishor patil 
+Author-kishor (college)
